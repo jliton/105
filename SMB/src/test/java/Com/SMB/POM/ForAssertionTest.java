@@ -11,7 +11,7 @@ public class ForAssertionTest  extends TestBase{
 		Assert.assertEquals(driver.findElement(By.xpath(OR.getProperty(input))), driver.findElement(By.xpath(OR.getProperty(input1))));
 
 	}
-
+//
 public static boolean ifItDisplayed(String locator) {
 	
 	if(driver.findElement(By.xpath(OR.getProperty(locator))).isDisplayed());
