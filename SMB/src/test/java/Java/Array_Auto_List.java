@@ -21,6 +21,7 @@ public class Array_Auto_List {
 		list.add(12);
 		System.out.println(list.size());
 		System.out.println(list);
+		//
 	}
 
 	
