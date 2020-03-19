@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71" started-at="2020-03-18T14:42:50 EDT" finished-at="2020-03-18T14:42:50 EDT">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71" started-at="2020-03-18T14:42:50 EDT" finished-at="2020-03-18T14:42:50 EDT">
+      <class name="Java.MapInterface">
+        <test-method status="PASS" signature="Test()[pri:0, instance:Java.MapInterface@458c1321]" name="Test" duration-ms="10" started-at="2020-03-18T14:42:50 EDT" finished-at="2020-03-18T14:42:50 EDT">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+      </class> <!-- Java.MapInterface -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

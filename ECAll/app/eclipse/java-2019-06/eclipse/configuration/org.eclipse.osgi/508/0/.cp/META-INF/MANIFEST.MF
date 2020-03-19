@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Automatic-Module-Name: org.robotframework.ide.eclipse.main.plugin.doc.
+ user
+Bundle-SymbolicName: org.robotframework.ide.eclipse.main.plugin.doc.us
+ er;singleton:=true
+Bundle-Name: RED Robot Editor User Guide
+Bundle-Version: 0.8.13.201907181006
+Built-By: root
+Require-Bundle: org.eclipse.help,org.eclipse.ui.intro
+Bundle-ManifestVersion: 2
+Bundle-Vendor: Nokia Solutions and Networks
+Created-By: Apache Maven 3.3.3
+Build-Jdk: 1.8.0_161
+
