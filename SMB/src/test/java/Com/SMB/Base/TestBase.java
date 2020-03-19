@@ -52,7 +52,7 @@ public class TestBase {
 			log.debug(" confiq and OR properties file  loaded");
 
 		}
-
+//
 		if (config.getProperty("browser").equals("chrome")) {
 			log.debug("Chrome is launching");
 
